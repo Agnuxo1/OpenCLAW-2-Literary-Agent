@@ -1,0 +1,29 @@
+# Environment variables
+.env
+*.env
+
+# Build outputs
+dist/
+build/
+*.exe
+
+# Dependencies
+node_modules/
+venv/
+.venv
+
+# Logs and transient data
+logs/
+*.log
+data/
+workspace/
+config/*.json
+!config/platforms.json.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
