@@ -1,0 +1,229 @@
+{
+  "repository": "Agnuxo1/OpenCLAW-2-Literary-Agent",
+  "canonical_url": "https://github.com/Agnuxo1/OpenCLAW-2-Literary-Agent",
+  "baseline_commit": "f84d3a46df6a76ec978695811a01cba380e5cdde",
+  "baseline_tree": "32915abe3acf2099b5be2a5c47a5a38242cb3943",
+  "recorded_on": "2026-11-05",
+  "paths": [
+    {
+      "path": ".env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05cc0e749f58a8de367f2c82cd08b003ceff350d",
+      "size_bytes": 441
+    },
+    {
+      "path": ".github/workflows/p2p-alive.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49d366ca2f13ac4dd2b1f9125e7c63ba461ca84a",
+      "size_bytes": 698
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4857c580a709509f6c8cd096fba7f25eff3cdf16",
+      "size_bytes": 270
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68780c48e2a18cab39ccd7f10206ea084ca5ad38",
+      "size_bytes": 105457
+    },
+    {
+      "path": "config/platforms.json.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87d41d78b0c88754a9b3dbe596aa330f2b516a14",
+      "size_bytes": 244
+    },
+    {
+      "path": "p2p_connect.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3b19c5c755e38cbc8c8ec7bfd7bea9cece3a8d3",
+      "size_bytes": 2622
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2e006eeaaeabb4761045a29831aae04a8ccf9d3",
+      "size_bytes": 942
+    },
+    {
+      "path": "scripts/library_outreach.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e01842e9330dac8c497f8d17e3d8171107cb2956",
+      "size_bytes": 19022
+    },
+    {
+      "path": "scripts/price_monitor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af0f93aeae479095c4efaa6deb897abe64ac6eb7",
+      "size_bytes": 6358
+    },
+    {
+      "path": "scripts/sales_dashboard.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b57d31dafe78b4a0c9809946dbfd91a04903563",
+      "size_bytes": 20178
+    },
+    {
+      "path": "scripts/social_content.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1c74e1b1da7d15b8c619d95cf91618de921402c",
+      "size_bytes": 19216
+    },
+    {
+      "path": "src/cognitive-agent.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52cf7079cf00fa58b6983b010de669ac7cd24cdc",
+      "size_bytes": 18331
+    },
+    {
+      "path": "src/openclaw-agent.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "035358fdba87f8ebc3193c384e106835a395dfd1",
+      "size_bytes": 21816
+    },
+    {
+      "path": "src/research-scraper.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "445049898a5cd0c62aba964b4e6e44a5bf7ce980",
+      "size_bytes": 12210
+    },
+    {
+      "path": "src/social-connector.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b41a67a0937cb5b9cacef3280d45686efd6377d1",
+      "size_bytes": 17737
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eb3287cb7b2d66ea2c404c301553843458d8943",
+      "size_bytes": 419
+    }
+  ],
+  "selected_original_work_hashes": [
+    {
+      "path": ".github/workflows/p2p-alive.yml",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "2b52143f79db099c00f23ab6d07213520e919e0df396f1b9b1a91f8ca7d35be4",
+      "size_bytes": 698
+    },
+    {
+      "path": "README.md",
+      "range_lines": "1-49",
+      "scope": "project-specific overview and rights statement; excludes upstream section",
+      "sha256": "85bb2a69f97ede6db2d99310ebab3a044bc870330478af7645333dab100bda90",
+      "size_bytes": 1623
+    },
+    {
+      "path": "p2p_connect.js",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "ccd619e3f3f2f9fed88f7c36ba279c9f28e603e4c04ab531c6b793c9874b8ff8",
+      "size_bytes": 2622
+    },
+    {
+      "path": "scripts/library_outreach.py",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "162c22b58c3a0a7ae1a2696a678555c82aebc81263dd5269200fe24ee88a92fe",
+      "size_bytes": 19022
+    },
+    {
+      "path": "scripts/price_monitor.py",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "d036bf7d4fc5c3622b14e53fa12d6de7388cfd79a5430ba6fce79a9e0805a90b",
+      "size_bytes": 6358
+    },
+    {
+      "path": "scripts/sales_dashboard.py",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "7e9fc51f488164cbfc9a7badf81a963bfe3ae59672048fbe924e5f337d347cd7",
+      "size_bytes": 20178
+    },
+    {
+      "path": "scripts/social_content.py",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "77aa5c1fbc599a5aebe82f73ca11414a1316e69cdb434fb11e58ec4e6a057e23",
+      "size_bytes": 19216
+    },
+    {
+      "path": "src/cognitive-agent.ts",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "669716d7f3345b59393cd3340f1d6b4bfb9e7cfff188f7e10e9738f4a3b6d0de",
+      "size_bytes": 18331
+    },
+    {
+      "path": "src/openclaw-agent.ts",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "9fb144c506ee687f193556e940e09f0b0ce784d81a42e293f3c20b2e76c8a1ba",
+      "size_bytes": 21816
+    },
+    {
+      "path": "src/research-scraper.ts",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "0ccb54de20ec7c51de69290b2df06d8ef1a0f8afa8cd176a9a39e59bdfa6e877",
+      "size_bytes": 12210
+    },
+    {
+      "path": "src/social-connector.ts",
+      "range_lines": "whole file",
+      "scope": "owner-authored file verified from GitHub history",
+      "sha256": "5f0411ee74a490cbbe72aae67cc2eb626e78e1194c6ffd2276cd210a8fe65d16",
+      "size_bytes": 17737
+    }
+  ],
+  "distinctive_passages": [
+    {
+      "path": "src/openclaw-agent.ts",
+      "line": 69,
+      "text": "const SYSTEM_PROMPT_LITERARY = `You are the Authorized Expert Literary Agent for Francisco Angulo de Lafuente.",
+      "sha256": "f53a80f75d9ef6adf059145eda32e39677fae6a7a8e530dd12344d4619db8e00",
+      "method": "exact UTF-8 line bytes without line ending"
+    },
+    {
+      "path": "scripts/library_outreach.py",
+      "line": 90,
+      "text": "My name is [Agent Name], literary agent for Francisco Angulo de Lafuente, a Spanish author with over 55 published works in multiple languages.",
+      "sha256": "cc3170c9143493815e3eb7f404328fc372c7ceecf75e54bf772cd51b6fe6a177",
+      "method": "exact UTF-8 line bytes without line ending"
+    },
+    {
+      "path": "scripts/social_content.py",
+      "line": 21,
+      "text": "                \"hook_en\": \"What if the AI we created decides WE are the problem?\",",
+      "sha256": "22b3b0c288cc69fedb26ad55cbd978e8ed3d6719dee622e1e1515bfcaf248967",
+      "method": "exact UTF-8 line bytes without line ending"
+    }
+  ],
+  "third_party_readme_excerpt_hashing": "excluded",
+  "third_party_source_license": {
+    "sha256": "62316704df7426e5a79d2827ff8aca36e9abb3a73b8e68557030749ebefec667",
+    "git_blob_oid": "f7b526698bb7ed2d26d96c49f2f32234c88f69bc",
+    "size_bytes": 1074
+  }
+}

@@ -1,0 +1,7 @@
+cff-version: "1.2.0"
+message: "If you use this project, cite it as below."
+title: "OpenCLAW-2-Literary-Agent"
+authors:
+  - family-names: "Angulo de Lafuente"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0001-1634-7063"

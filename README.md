@@ -47,6 +47,10 @@ Autonomous, pro-active literary agent engine for Francisco Angulo de Lafuente. T
 
 Private / All Rights Reserved. Used by OpenCLAW Autonomous Network.
 
+**Project-specific README author:** Francisco Angulo de Lafuente<br>**ORCID:** https://orcid.org/0009-0001-1634-7063<br>**Copyright (c):** 2026 Francisco Angulo de Lafuente<br>**Attribution recorded:** 2026-11-05; repository history and file scopes are in [provenance.json](provenance.json).<br>**Citation:** See [CITATION.cff](CITATION.cff).
+
+> **Third-party material follows.** The section below is adapted from the official [openclaw/openclaw README at commit ead3bb645f2a381b80d31c6e1c8408c1747bcbd0](https://github.com/openclaw/openclaw/blob/ead3bb645f2a381b80d31c6e1c8408c1747bcbd0/README.md). Its documentation and contributor credits remain separately attributed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The MIT badge points to that historical upstream LICENSE and applies only to the OpenClaw material below.
+
 # 🦞 OpenClaw — Personal AI Assistant
 
 <p align="center">
@@ -64,7 +68,7 @@ Private / All Rights Reserved. Used by OpenCLAW Autonomous Network.
   <a href="https://github.com/openclaw/openclaw/actions/workflows/ci.yml?branch=main"><img src="https://img.shields.io/github/actions/workflow/status/openclaw/openclaw/ci.yml?branch=main&style=for-the-badge" alt="CI status"></a>
   <a href="https://github.com/openclaw/openclaw/releases"><img src="https://img.shields.io/github/v/release/openclaw/openclaw?include_prereleases&style=for-the-badge" alt="GitHub release"></a>
   <a href="https://discord.gg/clawd"><img src="https://img.shields.io/discord/1456350064065904867?label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge" alt="Discord"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/openclaw/openclaw/blob/ead3bb645f2a381b80d31c6e1c8408c1747bcbd0/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
 </p>
 
 **OpenClaw** is a _personal AI assistant_ you run on your own devices.

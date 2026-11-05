@@ -1,3 +1,11 @@
+/*
+ * Project: OpenCLAW-2-Literary-Agent
+ * Author: Francisco Angulo de Lafuente
+ * ORCID: https://orcid.org/0009-0001-1634-7063
+ * Copyright (c) 2026 Francisco Angulo de Lafuente
+ * Attribution recorded: 2026-11-05 based on repository history.
+ */
+
 /**
  * Research Scraper Module for OpenCLAW
  * Fetches real papers from ArXiv and Google Scholar for Francisco Angulo de Lafuente

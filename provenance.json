@@ -1,0 +1,205 @@
+{
+  "repository": "Agnuxo1/OpenCLAW-2-Literary-Agent",
+  "canonical_url": "https://github.com/Agnuxo1/OpenCLAW-2-Literary-Agent",
+  "baseline_commit": "f84d3a46df6a76ec978695811a01cba380e5cdde",
+  "recorded_on": "2026-11-05",
+  "project": "OpenCLAW-2-Literary-Agent",
+  "author": "Francisco Angulo de Lafuente",
+  "orcid": "https://orcid.org/0009-0001-1634-7063",
+  "github_account": {
+    "login": "Agnuxo1",
+    "id": 166046035,
+    "git_author_name": "Francisco Angulo de Lafuente"
+  },
+  "attribution_basis": "GitHub file history maps all 11 reviewed paths to Agnuxo1 (ID 166046035) and Git name Francisco Angulo de Lafuente. This supports attribution but does not by itself prove line-by-line origin or licensing.",
+  "license_scope": {
+    "github_repository_license": null,
+    "root_license_present_at_baseline": false,
+    "readme_rights_statement": "Private / All Rights Reserved",
+    "package_json": "not fetched; license field not reviewed",
+    "repository_wide_license_added": false,
+    "repository_wide_spdx_added": false,
+    "file_level_mit": [
+      "p2p_connect.js"
+    ],
+    "third_party_mit": [
+      "README.md OpenClaw-derived material; notice in THIRD_PARTY_NOTICES.md"
+    ]
+  },
+  "readme_source": {
+    "upstream_repository": "openclaw/openclaw",
+    "upstream_commit": "ead3bb645f2a381b80d31c6e1c8408c1747bcbd0",
+    "source_url": "https://github.com/openclaw/openclaw/blob/ead3bb645f2a381b80d31c6e1c8408c1747bcbd0/README.md",
+    "baseline_owned_range": "lines 1-49",
+    "third_party_derived_range": "lines 50-594",
+    "matching_runs": [
+      {
+        "repo32_lines": [
+          78,
+          547
+        ],
+        "upstream_lines": [
+          30,
+          499
+        ],
+        "length": 470
+      },
+      {
+        "repo32_lines": [
+          50,
+          74
+        ],
+        "upstream_lines": [
+          1,
+          25
+        ],
+        "length": 25
+      }
+    ],
+    "nonmatching_remainder": "includes contributor roster; exact source revision unresolved; credits preserved",
+    "badge_link_changed_to_historical_license": true
+  },
+  "third_party_sources": [
+    {
+      "repository": "openclaw/openclaw",
+      "path": "README.md",
+      "commit": "ead3bb645f2a381b80d31c6e1c8408c1747bcbd0",
+      "source_url": "https://github.com/openclaw/openclaw/blob/ead3bb645f2a381b80d31c6e1c8408c1747bcbd0/README.md",
+      "provenance_note": "adapted source; exact matching runs recorded; nonmatching remainder is not claimed as a byte-identical copy"
+    },
+    {
+      "repository": "openclaw/openclaw",
+      "path": "LICENSE",
+      "commit": "ead3bb645f2a381b80d31c6e1c8408c1747bcbd0",
+      "source_url": "https://github.com/openclaw/openclaw/blob/ead3bb645f2a381b80d31c6e1c8408c1747bcbd0/LICENSE",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2025 Peter Steinberger",
+      "git_blob_oid": "f7b526698bb7ed2d26d96c49f2f32234c88f69bc",
+      "sha256": "62316704df7426e5a79d2827ff8aca36e9abb3a73b8e68557030749ebefec667",
+      "size_bytes": 1074,
+      "verified_on": "2026-11-05",
+      "byte_for_byte_verified_against_official_github_api": true
+    }
+  ],
+  "files": [
+    {
+      "path": ".env.example",
+      "status": "sidecar_only",
+      "reason": "environment template; contents not fetched"
+    },
+    {
+      "path": ".github/workflows/p2p-alive.yml",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 2,
+      "change": "top-level YAML attribution comment only",
+      "workflow_executed": false,
+      "events": [
+        "schedule",
+        "workflow_dispatch"
+      ],
+      "push_event_present": false
+    },
+    {
+      "path": ".gitignore",
+      "status": "sidecar_only",
+      "reason": "configuration syntax; no need to alter"
+    },
+    {
+      "path": "README.md",
+      "status": "mixed",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 2,
+      "attribution_scope": "project-specific overview, baseline lines 1-49",
+      "third_party_scope": "adapted OpenClaw documentation and contributor credits, baseline lines 50-594"
+    },
+    {
+      "path": "config/platforms.json.example",
+      "status": "sidecar_only",
+      "reason": "JSON configuration; preserve and document by sidecar only"
+    },
+    {
+      "path": "p2p_connect.js",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 6,
+      "existing_file_license": "MIT; retained as file-local"
+    },
+    {
+      "path": "package.json",
+      "status": "sidecar_only",
+      "reason": "package metadata/scripts; preserve and do not execute"
+    },
+    {
+      "path": "scripts/library_outreach.py",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "scripts/price_monitor.py",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "scripts/sales_dashboard.py",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "scripts/social_content.py",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "src/cognitive-agent.ts",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "src/openclaw-agent.ts",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "src/research-scraper.ts",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "src/social-connector.ts",
+      "status": "author",
+      "author": "Francisco Angulo de Lafuente",
+      "history_commits": 1
+    },
+    {
+      "path": "tsconfig.json",
+      "status": "sidecar_only",
+      "reason": "JSON compiler configuration; preserve and do not fetch"
+    }
+  ],
+  "new_metadata": [
+    "CITATION.cff",
+    "LICENSE_SCOPE.md",
+    "THIRD_PARTY_NOTICES.md",
+    "provenance.json",
+    "provenance-baseline.json"
+  ],
+  "secret_scan": {
+    "reviewed_paths": 11,
+    "high_confidence_pattern_hits": 0,
+    "secret_values_recorded": false
+  },
+  "workflow_events": [
+    "schedule",
+    "workflow_dispatch"
+  ],
+  "push_event_present": false,
+  "workflow_executed": false
+}
