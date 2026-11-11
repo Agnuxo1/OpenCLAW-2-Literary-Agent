@@ -2,6 +2,10 @@
 
 Autonomous, pro-active literary agent engine for Francisco Angulo de Lafuente. This agent manages outreach, social media, and sales analysis for a catalog of 55+ books.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The literary agent documents a decision loop, periodic strategy review and reusable tools for outreach, pricing, sales and bilingual content. Combining these tasks can reduce fragmented administration around an author catalog and make previous results available to subsequent decisions. Its <a href="scripts">task tools</a> complement the separately attributed upstream OpenClaw assistant material, without establishing a measured improvement in book sales.</sub>
+<!-- impact-note:end -->
+
 ## 🧠 Features
 
 - **Autonomous Decision Loop**: Operates 24/7, making strategic decisions every 30 minutes.
